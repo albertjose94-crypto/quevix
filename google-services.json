@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957825602044",
+    "project_id": "quevix-4f006",
+    "storage_bucket": "quevix-4f006.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957825602044:android:5348b70307cef360c2e279",
+        "android_client_info": {
+          "package_name": "com.quevix.queue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRwvhrF8dUcdNryQN3mo8QycopNn7IsJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
