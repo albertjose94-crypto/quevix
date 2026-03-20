@@ -2,7 +2,7 @@
   "expo": {
     "name": "Quevix Queue",
     "slug": "quevix-app",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "assetBundlePatterns": [
@@ -14,6 +14,7 @@
     },
     "android": {
       "package": "com.quevix.queue",
+      "versionCode": 2,
       "permissions": [
         "android.permission.POST_NOTIFICATIONS"
       ],
