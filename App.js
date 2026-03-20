@@ -4,7 +4,7 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { Ionicons } from '@expo/vector-icons';
 import BarberDashboard from './BarberDashboard';
 import AdminPanel from './AdminPanel';
-import { setupNotifications } from './notifications';
+import { setupNotifications } from './utils/notifications';
 import { db } from './firebaseConfig';
 import { collection, onSnapshot } from 'firebase/firestore';
 
