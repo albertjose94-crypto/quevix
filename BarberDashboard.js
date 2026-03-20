@@ -10,7 +10,7 @@ import {
 } from 'react-native';
 import { collection, query, where, orderBy, onSnapshot, doc, updateDoc, deleteDoc } from 'firebase/firestore';
 import { db } from './firebaseConfig';
-import { sendLocalNotification } from '../utils/notifications';
+import { sendLocalNotification } from './utils/notifications';
 
 const BarberDashboard = () => {
   const [waitingQueue, setWaitingQueue] = useState([]);
