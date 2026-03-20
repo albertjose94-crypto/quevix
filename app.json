@@ -23,7 +23,9 @@
     "plugins": [
       "expo-notifications"
     ],
-    "sdkVersion": "52.0.0",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
     "platforms": [
       "ios",
       "android"
