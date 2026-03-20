@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Quevix Queue",
-    "slug": "quevix-queue",
+    "slug": "quevix-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
