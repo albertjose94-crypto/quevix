@@ -9,7 +9,7 @@ import {
   ScrollView,
 } from 'react-native';
 import { collection, query, getDocs, deleteDoc, doc, setDoc, onSnapshot } from 'firebase/firestore';
-import { db } from '../firebaseConfig';
+import { db } from './firebaseConfig';
 
 const AdminPanel = () => {
   const [shopOpen, setShopOpen] = useState(true);
