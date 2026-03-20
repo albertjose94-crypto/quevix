@@ -40,6 +40,16 @@
           "color": "#6366f1"
         }
       ]
-    ]
+    ],
+    "sdkVersion": "52.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d98022c5-4a48-46c1-a97c-31a244b74ca0"
+      }
+    }
   }
 }
